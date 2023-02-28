@@ -1,0 +1,47 @@
+body{
+    background-color: darkgrey;
+}
+.text-center {
+    text-align: center;
+    font-size: 45px;
+}
+
+.container {
+
+    text-align: center;
+    margin-top: 100px;
+    
+
+
+
+}
+
+.row input {
+
+    font-size: 20px;
+    width: 19vw;
+    height: 3vh;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 10px 9px;
+
+}
+
+.row {
+    margin: .5px;
+    padding: 2px;
+}
+
+.btn {
+    height: 45px;
+    width: 75px;
+    border-radius: 5px;
+    color: 2px solid black;
+    font-size: 24px;
+    box-shadow: 1.5px 2px;
+    background-color: blueviolet;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
